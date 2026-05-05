@@ -39,8 +39,5 @@ The SQL analysis covers:
 4.  Execute the provided SQL scripts in **SQL Server Management Studio (SSMS)** for transformation and insights.
 
 ---
-<<<<<<< HEAD
+
 **Note:** This project focuses on data quality and performance optimization, ensuring that data types are precise and Unicode characters are preserved.
-=======
-**Note:** This project focuses on data quality and performance optimization, ensuring that data types are precise and Unicode characters are preserved.
->>>>>>> e23210ac3641294fb4d3242281711fe0bff3832c

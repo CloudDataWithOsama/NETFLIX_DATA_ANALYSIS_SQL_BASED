@@ -1,10 +1,7 @@
 # Netflix Data Engineering & Analysis Project 🎬
 
-<<<<<<< HEAD
 ![alt text](architecture.png)
 
-=======
->>>>>>> e23210ac3641294fb4d3242281711fe0bff3832c
 ## Overview
 This project demonstrates an end-to-end data pipeline. It starts by fetching the Netflix dataset directly from Kaggle, processing it using Python, and then loading it into a structured MS SQL Server database for deep analysis.
 
